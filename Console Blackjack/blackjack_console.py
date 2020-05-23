@@ -1,8 +1,6 @@
 import random
 
 class Players:
-    """"""
-
     def __init__(self):
         self.name = self._input_name()
         self.score = 0
